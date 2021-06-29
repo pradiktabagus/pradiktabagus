@@ -1,37 +1,48 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="./src/assets/images/cover.png" width="600" />
-  </a>
-</p>
-<h1 align="center">
-  GatsbyJS + Storybook Starter
-</h1>
-<p align="center">
-  Gatsby starter that uses Storybook + additional set of tools listed bellow, and provides an easy to start structure to get you up and running with your Gatsby powered site.
-</p>
+### Hi there, I'm Rofi - aka [mikazuki june][resume] 👋
 
-##  What's inside?
+[![resume](https://d2p5mifqdrbapa.cloudfront.net/photo-profile.jpg)](https://me.nanali.co)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rofiyanto_bp)
 
-- Gatsby (v2)
-- Storybook (v5)
-- Styled Components (v4)
-- Styled Reset (Advanced)
-- Netlify Conf
-- Eslint
+## I'm a Frontend Developer and Android Developer!!
 
-## Quick start
-```bash
-$ gatsby new my-awesome-site https://github.com/markoradak/gatsby-starter-storybook
+- 🔭 I just build my first blog: [Sabana!][website]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Complete my blog Open Source projects
+- ⚡ Fun fact: I love coffee and DOTA 2
 
-$ cd my-awesome-site
-$ yarn start || yarn develop
-```
+### Spotify Playing 🎧
 
-## Deploy
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/pradiktabagus)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markoradak/gatsby-starter-storybook)
+### Connect with me:
 
-## License
+[<img align="left" alt="me.nanali.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][resume]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Licensed under the MIT License, Copyright © 2018 Marko Radak.  
-See [license](LICENSE) for more information.
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+[resume]: https://me.nanali.co
+[website]: http://nanali.co
+[twitter]: https://twitter.com/rofiyanto_bp
+[instagram]: https://instagram.com/rofiyanto_bp
+[linkedin]: https://linkedin.com/in/rofiyanto-bagus
