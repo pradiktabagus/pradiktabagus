@@ -11,8 +11,7 @@
 - ⚡ Fun fact: I love coffee and DOTA 2
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/pradiktabagus)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pradiktabagus&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
