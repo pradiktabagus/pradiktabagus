@@ -1,6 +1,6 @@
 ### Hi there, I'm Rofi - aka [mikazuki june][resume] 👋
 
-[![resume](https://d2p5mifqdrbapa.cloudfront.net/photo-profile.jpg)](https://me.nanali.co)
+[![resume](https://res.cloudinary.com/sabana/image/upload/v1625131848/sabana_pgf53p.png)](https://nanali.co)
 [![Twitter Follow](https://res.cloudinary.com/sabana/image/upload/v1625046630/follow_twitter_lmhuqo.png)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rofiyanto_bp)
 
 ## I'm a Frontend Developer and Android Developer!!
