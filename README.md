@@ -1,4 +1,4 @@
-### Hi there, I'm Rofi - aka [mikazuki june][resume] 👋
+### Hi there, I'm Rofi - aka [mikazuki june][wattpad] 👋
 
 [![resume](https://res.cloudinary.com/sabana/image/upload/v1625131981/sabana_dyou3q.png)](https://nanali.co)
 [![Twitter Follow](https://res.cloudinary.com/sabana/image/upload/v1625046630/follow_twitter_lmhuqo.png)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rofiyanto_bp)
@@ -39,7 +39,7 @@
 <br />
 
 ---
-
+[wattpad]: https://www.wattpad.com/user/mika_Isuzu
 [resume]: https://me.nanali.co
 [website]: http://nanali.co
 [twitter]: https://twitter.com/rofiyanto_bp
