@@ -38,6 +38,12 @@
 <br />
 <br />
 
+### Last Story [mikazuki june][wattpad] 👋
+
+- [Lubang][story1]
+- [Kereta Mataram][story2]
+- [Bagian Dari Diriku][story3]
+
 ---
 [wattpad]: https://www.wattpad.com/user/mika_Isuzu
 [resume]: https://me.nanali.co
@@ -45,3 +51,6 @@
 [twitter]: https://twitter.com/rofiyanto_bp
 [instagram]: https://instagram.com/rofiyanto_bp
 [linkedin]: https://linkedin.com/in/rofiyanto-bagus
+[story1]: https://www.wattpad.com/myworks/175376639-lubang
+[story2]: https://www.wattpad.com/myworks/214099017-kereta-mataram
+[story3]: https://www.wattpad.com/myworks/177917452-bagian-dariku
