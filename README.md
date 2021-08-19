@@ -10,8 +10,6 @@
 - 🥅 2021 Goals: Complete my blog Open Source projects
 - ⚡ Fun fact: I love coffee and DOTA 2
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pradiktabagus&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
